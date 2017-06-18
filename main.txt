@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 nepal is a beautiful country.
 
@@ -6,3 +7,6 @@ asdaiosckdajckascasdc
 
 hie -- edited by Me
 
+=======
+haha
+>>>>>>> 98c4e8a415817533beccdee75d072e269d2de005
