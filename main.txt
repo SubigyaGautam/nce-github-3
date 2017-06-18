@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+ HEAD
 asdaiosckdajckascasdc
-=======
+
 hie -- edited by Me
->>>>>>> da6b74ece7e406ffe2ff7e96d514c1c3a14734d2
+ da6b74ece7e406ffe2ff7e96d514c1c3a14734d2
